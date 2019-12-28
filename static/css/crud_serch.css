@@ -1,0 +1,16 @@
+.div-serch>table {
+    border-collapse:  collapse;
+    border-spacing: 5px;
+}
+
+.div-serch>table th,td {
+    border-bottom: solid 1px;
+    text-align: center;
+    padding: 5px 0px 5px 40px;
+}
+
+.div-serch input[type="text"] {
+    border: none;
+    padding: 5px 0px 5px 15px;
+    text-align: center;
+}
